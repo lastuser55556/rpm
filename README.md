@@ -2,6 +2,16 @@
 
 Студент — Бугаев Тимофей.
 
-[Занятие 6 · Проверка типов в Pylance и mypy](lesson_06/README.md)
+## Задания курса
 
-Исходные материалы занятия и проект «Отчёт кафе» взяты из [backend-DARKle](https://github.com/1DARKle1/backend-DARKle/tree/24a9e408967854751c4c154b6b1645232b3565e5).
+| № | Тема | Материалы |
+|---|---|---|
+| 1 | Backend и контракт сервиса | [Домашнее задание](lesson_01/homework_01.md) |
+| 2 | Окружение и модули Python | [Домашнее задание](lesson_02/homework_02.md) |
+| 3 | Сборка проекта | [Домашнее задание](lesson_03/homework_03.md) |
+| 4 | Практикум по подписям функций | [Инструкция](lesson_04/README.md) |
+| 5 | Проверка типов до запуска | [Инструкция и шаблоны отчётов](lesson_05/README.md) |
+| 6 | Режимы Pylance и mypy | [Инструкция](lesson_06/README.md) · [Отчёт](lesson_06/otchet_06.md) |
+| 7 | Докстринги и Ruff | [Инструкция](lesson_07/README.md) |
+
+Исходные материалы занятий и проект «Отчёт кафе» взяты из [backend-DARKle](https://github.com/1DARKle1/backend-DARKle/tree/24a9e408967854751c4c154b6b1645232b3565e5).
